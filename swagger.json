@@ -5,7 +5,7 @@
     "description": "Temple API",
     "version": "1.0.0"
   },
-  "host": "https://wdd341-y48m.onrender.com/",
+  "host": "https://wdd341-y48m.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
